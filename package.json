@@ -30,5 +30,9 @@
     "url": "https://github.com/king1484/todo-app-vinay"
   },
   "license": "MIT",
-  "author": "vinay1484"
+  "author": "vinay1484",
+  "keywords": [
+    "vite",
+    "react",
+    "eslint"]
 }
