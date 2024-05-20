@@ -1,8 +1,9 @@
 {
-  "name": "todo-app",
+  "name": "todo-app-vinay",
   "private": false,
   "version": "0.0.0",
   "type": "module",
+  "main": "index.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -27,5 +28,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/king1484/todo-app-vinay"
-  }
+  },
+  "license": "MIT",
+  "author": "vinay1484"
 }
